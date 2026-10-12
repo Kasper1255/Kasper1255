@@ -1,4 +1,4 @@
-# Hi there, I'm Kasper! 👋
+# Hi there, I'm Kasper and abdulrazak 😅 ! 👋😁
 
 ### 🚀 About Me
 I am a passionate Full-Stack Developer and Game Design Enthusiast who loves combining clean code with creative digital experiences. I specialize in building robust web applications and designing interactive environments.
@@ -9,8 +9,8 @@ I am a passionate Full-Stack Developer and Game Design Enthusiast who loves comb
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| Web Development | HTML5, CSS3, JavaScript, ASP.NET (or Core) |
-| Programming | C#, Python |
+| Web Development | HTML, css , JavaScript |
+| Programming | C# |
 | Databases | SQL Server |
 | Creative & 3D Tech | 3D Modeling / Game Design |
 
